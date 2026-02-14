@@ -1,5 +1,5 @@
 # DeepScope: Planets and Stars Positions (No Astropy)
-
+*this project was developed in 2021*
 This project is focused on getting celestial positions (mainly **RA/Dec**) for:
 - Solar system bodies (planets, Moon, Sun)
 - Bright stars
